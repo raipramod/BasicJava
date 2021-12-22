@@ -1,0 +1,16 @@
+import java.util.Iterator;
+
+public class ArrayOut {
+
+	public static void main(String[] args) {
+
+		int arr[] = {10,20,30};
+		System.out.println("Element of Array is:");
+		for (Iterator iterator = collection.iterator(); iterator.hasNext();) {
+			type type = (type) iterator.next();
+			
+		}
+		
+	}
+
+}

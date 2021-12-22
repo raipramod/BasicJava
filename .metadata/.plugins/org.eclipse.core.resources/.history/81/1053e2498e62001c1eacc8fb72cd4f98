@@ -1,0 +1,7 @@
+
+public interface D extends A {
+
+	public default void myMethod() {
+		
+	}
+}

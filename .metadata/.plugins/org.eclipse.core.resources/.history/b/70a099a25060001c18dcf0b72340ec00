@@ -1,0 +1,10 @@
+
+public abstract class BMW {
+	
+	void commonFunctionality() {
+		System.out.println("Indide the common Functionality");
+	}
+
+	abstract void accelerate();
+	
+}

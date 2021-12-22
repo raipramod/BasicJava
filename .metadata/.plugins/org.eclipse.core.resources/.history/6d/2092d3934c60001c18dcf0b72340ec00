@@ -1,0 +1,8 @@
+
+public class Child {
+	
+	void f2() {
+		System.out.println("Inside f2");
+	}
+
+}

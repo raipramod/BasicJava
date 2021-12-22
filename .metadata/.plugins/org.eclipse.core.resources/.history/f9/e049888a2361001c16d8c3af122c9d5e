@@ -1,0 +1,11 @@
+
+public class StringExce {
+
+	public static void main(String[] args) {
+
+		String s = "abcd";
+		Integer.parseInt(s);
+				
+	}
+
+}

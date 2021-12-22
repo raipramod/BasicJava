@@ -1,0 +1,8 @@
+
+public interface D extends A {
+
+	@Override
+	public default void myMethod() {
+		
+	}
+}

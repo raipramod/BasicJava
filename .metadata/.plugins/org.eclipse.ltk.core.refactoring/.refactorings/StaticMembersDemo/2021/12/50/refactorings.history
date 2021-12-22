@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;StaticMethosDemo.java&apos; to &apos;StaticMethodsDemo.java&apos;&#x0A;- Original project: &apos;StaticMembersDemo&apos;&#x0A;- Original element: &apos;StaticMethosDemo.java&apos;&#x0A;- Renamed element: &apos;StaticMethodsDemo.java&apos;" description="Rename compilation unit &apos;StaticMethosDemo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{StaticMethosDemo.java" name="StaticMethodsDemo.java" references="false" stamp="1638682748115" version="1.0"/>
+</session>
